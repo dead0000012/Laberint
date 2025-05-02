@@ -82,7 +82,6 @@ while running:
         cub3.enabled = False
         cub4.enabled = False
         cub5.enabled = False
-        cub6.rect = False
         speed = 20
         show_text = True
         
